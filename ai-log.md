@@ -29,3 +29,14 @@ Useful suggestion: Suggested "Clarify repository purpose", "Document branch and 
 Decision: accepted
 Reason: The messages were specific and described each change, as the assignment requires.
 Related GitHub URL: https://github.com/anuneza-code/swe325_525-github-ai-practice
+
+## Reflection
+1. The pull request was most useful — it ties the issue, branch, and commits
+   together and shows the whole change in one place before merging.
+2. I accepted the suggested commit messages because they were specific and
+   described each change clearly.
+3. I revised the README draft because the first version was too long; I asked
+   for a shorter one.
+4. I verified the facts and structure of each file myself, and confirmed the
+   branch and commits directly in GitHub Desktop instead of trusting the AI.
+5. Next time I would write the reflection as I go, instead of leaving it for the end.
