@@ -1,38 +1,31 @@
 # AI-Use Log
 
 ## AI interaction 1
-Date:
-Assistant:
-Purpose:
-Prompt or summary:
-Useful suggestion:
-Decision: accepted / revised / rejected
-Reason:
-Related GitHub URL:
+Date: 2026-09-29
+Assistant: Claude (Anthropic)
+Purpose: Explain GitHub concepts (issue, branch, commit, pull request, default branch).
+Prompt or summary: Asked what a GitHub issue is and how issues, branches, commits, and PRs relate.
+Useful suggestion: Explained that an issue is a work item that defines the work before doing it, using Redmine (a ticketing tool I had used years earlier) as a reference point so the concept connected to something familiar. Noted that the PR closes the issue after the commits.
+Decision: accepted
+Reason: The Redmine analogy made the concept immediately clear, and the explanation matched the assignment's workflow.
+Related GitHub URL: https://github.com/anuneza-code/swe325_525-github-ai-practice/issues/1
 
 ## AI interaction 2
-Date:
-Assistant:
-Purpose:
-Prompt or summary:
-Useful suggestion:
-Decision: accepted / revised / rejected
-Reason:
-Related GitHub URL:
+Date: 2026-09-29
+Assistant: Claude (Anthropic)
+Purpose: Draft and improve the README.md content.
+Prompt or summary: Asked for README content stating purpose, scope, and student identification.
+Useful suggestion: Proposed a README with purpose, scope ("not a software project"), and student line.
+Decision: revised
+Reason: The first draft was too long; I asked for a shorter version and used the condensed one.
+Related GitHub URL: https://github.com/anuneza-code/swe325_525-github-ai-practice
 
 ## AI interaction 3
-Date:
-Assistant:
-Purpose:
-Prompt or summary:
-Useful suggestion:
-Decision: accepted / revised / rejected
-Reason:
-Related GitHub URL:
-
-## Reflection
-1. Which GitHub action or object was most useful to you, and why?
-2. Which AI suggestion did you accept, and what made it useful?
-3. Which AI suggestion did you revise or reject, and why?
-4. What did you verify yourself instead of trusting the AI?
-5. What would you change in your GitHub workflow next time?
+Date: 2026-09-29
+Assistant: Claude (Anthropic)
+Purpose: Review commit messages and suggest specific ones for the three commits.
+Prompt or summary: Asked for clear commit messages instead of vague ones.
+Useful suggestion: Suggested "Clarify repository purpose", "Document branch and pull request workflow", and "Add AI-use record".
+Decision: accepted
+Reason: The messages were specific and described each change, as the assignment requires.
+Related GitHub URL: https://github.com/anuneza-code/swe325_525-github-ai-practice
